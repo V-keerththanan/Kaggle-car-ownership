@@ -1,4 +1,4 @@
-## Kaggle-car-price
+## Kaggle-car-ownership
 ### About Dataset
 https://www.kaggle.com/datasets/rkiattisak/car-ownership-predictionbeginner-intermediate
 
